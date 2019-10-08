@@ -1,1 +1,1 @@
-# MERRA2_regridding_issue
+Supplementary materials for [issue#83](https://github.com/geoschem/geos-chem/issues/83#issue-503893778) in geoschem/geoschem respository. The issue is about a regridding issue of soil wetness fields in MERRA-2 dataset.
